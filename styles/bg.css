@@ -1,0 +1,62 @@
+[data-testid="stHeader"]{
+    background: rgba(0,0,0,0.3);
+    backdrop-filter: blur(15px);
+    color: white;
+}
+
+[data-testid="stAppViewBlockContainer"] {
+    background: linear-gradient(rgb(255 255 255 / 0%) 0, rgb(0,0,0) 400px, #000 100%);
+    backdrop-filter: blur(3px);
+    color: white;
+}
+[data-testid="StyledLinkIconContainer"]{
+    color: white;
+}
+[data-testid="baseButton-header"]{
+    color: white;
+}
+[data-testid="baseButton-headerNoPadding"]{
+    color: white;
+}
+
+[data-testid="stSidebarNavItems"] span{
+    color: white;
+}
+[data-testid="stSidebar"]{
+    background: linear-gradient(rgba(0, 0, 0, 0.747) 0, rgba(0, 0, 0, 0.518) 500px, rgba(0,0,0,0)771px, rgba(0,0,0,0) 100%);
+    background-color: rgba(0,0,0,0.7);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+    color: #446;
+    backdrop-filter: blur(10px);
+}
+[data-testid="stSidebarNavItems"]{
+
+    backdrop-filter: blur(10px);
+}
+[data-testid="stSidebarNavLink"]:hover{
+    background-color: rgba(255,255,255, 0.1);
+}
+[data-testid="stSidebarNavLink"]{
+    color: black;
+}
+.st-emotion-cache-nziaof, .st-emotion-cache-nziaof:hover {
+        background-color: rgba(0 ,87 ,255, 0.3);
+}
+
+
+
+/* The position of the Logo Image on sidebar is defined using these 2 blocks of code */
+
+/* 1. increasing the box size of the upper container */
+[class="st-emotion-cache-1oe5cao eczjsme9"]{
+    padding-top: 220px;
+    max-height: 1200px;
+}
+
+/* 2. Positioning the image as fixed at top left corner */
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.st-emotion-cache-1d7vv6j.eczjsme11 > div.st-emotion-cache-6qob1r.eczjsme3 > div.st-emotion-cache-1n5xqho.eczjsme4 > div > div > div > div > div > div > div > div > img{
+    position: fixed;
+    top: 89px;
+    left: 25px;
+    width: 121px;
+}
