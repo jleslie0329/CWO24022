@@ -1,6 +1,6 @@
-# 🛡️ Cyber Dash
+# 🛡️ 24022 Dash
 
-This is an app made using streamlit to show the analytics of different part of cyber data. 
+This is an app made using streamlit to show a CWO class stats
 
 ## Installation Instructions ( using pip ) 
 
