@@ -41,7 +41,7 @@ student_bio_data = {
         "Favorite Movie": "Lord of the Rings - Trilogy",
         "Favorite Game": "World of Warcraft",
         "Favorite CWO Block": "Python",
-        "Image": "media/SSgt_Leslie.jpg"
+        "Image": "media/SSgt_Leslie1.jpg"
     },
     "SrA Snuffy": {
         "Name": "SrA Snuffy",
@@ -49,7 +49,7 @@ student_bio_data = {
         "Favorite Movie": "Iron Man",
         "Favorite Game": "Fortnite",
         "Favorite CWO Block": "Block 2 - Linux",
-        "Image": "media/SrA_Snuffy.jpg"
+        "Image": "media/SrA_Snuffy1.jpg"
     },
     "Amn Packet": {
         "Name": "Amn Packet",
@@ -57,7 +57,7 @@ student_bio_data = {
         "Favorite Movie": "The Social Network",
         "Favorite Game": "Overwatch",
         "Favorite CWO Block": "Block 3 - Python",
-        "Image": "media/Amn_Packet.jpg"
+        "Image": "media/Amn_Packet1.jpg"
     },
     "TSgt Hackerman": {
         "Name": "TSgt Hackerman",
@@ -65,7 +65,7 @@ student_bio_data = {
         "Favorite Movie": "The Matrix",
         "Favorite Game": "Minecraft",
         "Favorite CWO Block": "Block 4 - Network Fundamentals",
-        "Image": "media/TSgt_Hackerman.jpg"
+        "Image": "media/TSgt_Hackerman1.jpg"
     },
     "A1C RedCard": {
         "Name": "A1C RedCard",
@@ -73,7 +73,7 @@ student_bio_data = {
         "Favorite Movie": "Star Wars",
         "Favorite Game": "League of Legends",
         "Favorite CWO Block": "Block 5 - Network Config",
-        "Image": "media/A1C_RedCard.jpg"
+        "Image": "media/A1C_RedCard1.jpg"
     },
     "Amn YellowRope": {
         "Name": "Amn YellowRope",
@@ -81,7 +81,7 @@ student_bio_data = {
         "Favorite Movie": "Avengers: Endgame",
         "Favorite Game": "Valorant",
         "Favorite CWO Block": "Block 6 - Intro to CWO",
-        "Image": "media/Amn_YellowRope.png"
+        "Image": "media/Amn_YellowRope1.png"
     },
     "SrA Doubletap": {
         "Name": "SrA Doubletap",
@@ -89,7 +89,7 @@ student_bio_data = {
         "Favorite Movie": "John Wick",
         "Favorite Game": "Apex Legends",
         "Favorite CWO Block": "Block 7 - Cyber Systems",
-        "Image": "media/SrA_Doubletap.jpg"
+        "Image": "media/SrA_Doubletap1.jpg"
     },
     "A1C Zoomer": {
         "Name": "A1C Zoomer",
@@ -97,7 +97,7 @@ student_bio_data = {
         "Favorite Movie": "Fast & Furious",
         "Favorite Game": "Rocket League",
         "Favorite CWO Block": "Block 8 - OCO",
-        "Image": "media/A1C_Zoomer.jpg"
+        "Image": "media/A1C_Zoomer1.jpg"
     },
     "SSgt Engines": {
         "Name": "SSgt Engines",
@@ -105,7 +105,7 @@ student_bio_data = {
         "Favorite Movie": "Transformers",
         "Favorite Game": "World of Tanks",
         "Favorite CWO Block": "Block 9 - DCO",
-        "Image": "media/SSgt_Engines.jpg"
+        "Image": "media/SSgt_Engines1.jpg"
     },
     "A1C S.I.A.": {
         "Name": "A1C S.I.A.",
@@ -113,7 +113,7 @@ student_bio_data = {
         "Favorite Movie": "Interstellar",
         "Favorite Game": "Stellaris",
         "Favorite CWO Block": "Block 10 - Ops Planning",
-        "Image": "media/A1C_S.I.A..jpg"
+        "Image": "media/A1C_S.I.A.1.jpg"
     },
     "TSgt SpaceForce": {
         "Name": "TSgt SpaceForce",
@@ -121,7 +121,7 @@ student_bio_data = {
         "Favorite Movie": "Gravity",
         "Favorite Game": "Kerbal Space Program",
         "Favorite CWO Block": "Block 11 - Capstone",
-        "Image": "media/TSgt_SpaceForce.jpg"
+        "Image": "media/TSgt_SpaceForce1.jpg"
     }
 }
 
