@@ -58,9 +58,9 @@ with st.sidebar:
     st.image('media/logo22.png')
 
 
-# Load the CSV files using relative paths
-class_average_df = pd.read_csv('class_average.csv')
-student_average_df = pd.read_csv('student_average.csv')
+class_average_df = pd.read_csv('data/class_average.csv')
+student_average_df = pd.read_csv('data/student_average.csv')
+
 
 
 # Calculate the overall class average across all block tests
