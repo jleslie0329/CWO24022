@@ -81,7 +81,7 @@ student_bio_data = {
         "Favorite Movie": "Avengers: Endgame",
         "Favorite Game": "Valorant",
         "Favorite CWO Block": "Block 6 - Intro to CWO",
-        "Image": "media/Amn_YellowRope1.png"
+        "Image": "media/Amn_YellowRope1.jpg"
     },
     "SrA Doubletap": {
         "Name": "SrA Doubletap",
@@ -97,7 +97,7 @@ student_bio_data = {
         "Favorite Movie": "Fast & Furious",
         "Favorite Game": "Rocket League",
         "Favorite CWO Block": "Block 8 - OCO",
-        "Image": "media/A1C_Zoomer1.jpg"
+        "Image": "media/A1C_Zoomer1.png"
     },
     "SSgt Engines": {
         "Name": "SSgt Engines",
